@@ -52,3 +52,7 @@ by the same author.
 * [ZX0-Kotlin](https://github.com/einar-saukas/ZX0-Kotlin) - A similar
 multi-thread data compressor for [ZX0](https://github.com/einar-saukas/ZX0)
 in [Kotlin](https://kotlinlang.org/), by the same author.
+
+* [ZX5-Kotlin](https://github.com/einar-saukas/ZX5-Kotlin) - A similar
+multi-thread data compressor for [ZX5](https://github.com/einar-saukas/ZX5)
+in [Kotlin](https://kotlinlang.org/), by the same author.
