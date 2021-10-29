@@ -193,7 +193,7 @@ public class Main {
 
         // done!
         if (!decompress) {
-            System.out.println("File " + (skip > 0 ? "partially " : "") + "compressed " + (backwardsMode ? "backwards " : "") + "from " + (input.length-skip) + " to " + output.length + " bytes! (delta " + delta + ")");
+            System.out.println("File " + (skip > 0 ? "partially " : "") + "compressed " + (backwardsMode ? "backwards " : "") + "from " + (input.length-skip) + " to " + output.length + " bytes! (delta " + delta[0] + ")");
         } else {
             System.out.println("File decompressed " + (backwardsMode ? "backwards " : "") + "from " + (input.length-skip) + " to " + output.length + " bytes!");
         }
